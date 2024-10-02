@@ -1,0 +1,25 @@
+/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd {1 {vcom -work work -2002 -explicit -stats=none /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_module
+-- Compiling architecture arc_struct of xor_module
+
+} {} {}} /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd {1 {vcom -work work -2002 -explicit -stats=none /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_b
+-- Compiling architecture alu_b_inst of alu_b
+
+} {} {}} /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd {1 {vcom -work work -2002 -explicit -stats=none /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_c
+-- Compiling architecture alu_c_inst of alu_c
+
+} {} {}}

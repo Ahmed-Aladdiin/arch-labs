@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code
+Ealu_b
+Z0 w1727845921
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z3 d/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b
+Z4 8/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd
+Z5 F/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd
+l0
+L4 1
+VT84nf9hCDYH5k5[5Gd;8a1
+!s100 GRk3gl?cJI^Cc00M?74NC1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1727845930
+!i10b 1
+Z8 !s108 1727845929.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd|
+Z10 !s107 /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aalu_b_inst
+R1
+R2
+DEx4 work 5 alu_b 0 22 T84nf9hCDYH5k5[5Gd;8a1
+!i122 6
+l14
+L13 12
+Vfi5Lf^1]LBQ:zOJ<[OIGK3
+!s100 6^aFEQnOGLIJ[4Wh2CKOK3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu_c
+Z13 w1727848425
+R1
+R2
+!i122 9
+R3
+Z14 8/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd
+Z15 F/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd
+l0
+L4 1
+V[BD5150Oe0WTN5<L><UUP0
+!s100 18E<nPgFA;?FU:]6cMz601
+R6
+32
+Z16 !s110 1727848435
+!i10b 1
+Z17 !s108 1727848435.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd|
+Z19 !s107 /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/alu_c.vhd|
+!i113 1
+R11
+R12
+Aalu_c_inst
+R1
+R2
+DEx4 work 5 alu_c 0 22 [BD5150Oe0WTN5<L><UUP0
+!i122 9
+l15
+Z20 L14 14
+Z21 VVQGM4iK67M_i71?n_n;<71
+Z22 !s100 6d5n^90aQh_RkOi0AmmKa0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Exor_module
+Z23 w1727844702
+R1
+R2
+!i122 1
+R3
+Z24 8/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd
+Z25 F/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd
+l0
+L4 1
+VIAf7GjAmO7GlOaIU1<XSA3
+!s100 OVR?Hbl_RNnDPBfXUKgD@3
+R6
+32
+Z26 !s110 1727844706
+!i10b 1
+Z27 !s108 1727844706.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd|
+Z29 !s107 /mnt/3482C69382C6594E/Ahmed/CMP_26/3rd_year/1/arch/assignment/1-alu/code/b/xor.vhd|
+!i113 1
+R11
+R12
+Aarc_struct
+R1
+R2
+DEx4 work 10 xor_module 0 22 IAf7GjAmO7GlOaIU1<XSA3
+!i122 1
+l12
+L11 4
+V>Dk=dA_F3SL=l5HSOf`f61
+!s100 m6[VAk_[ge@Pn;3P;W7h73
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
