@@ -1,7 +1,7 @@
 m255
 K4
 z2
-!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11e MIXED_VERSIONS
 13
 !s112 1.1
 !i10d 8192
@@ -9,208 +9,252 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/20.1
-Ealu
-Z0 w1727900853
+Eadder_sub_1bit
+Z0 w1728501883
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 83
-Z3 dC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1
-Z4 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu.vhd
-Z5 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu.vhd
+!i122 18
+Z3 dC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code
+Z4 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/adder_sub_1bit.vhd
+Z5 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/adder_sub_1bit.vhd
 l0
 L4 1
-V81CcPT4oZIlH7K>35Wj9m0
-!s100 E3b1cOk2MP6mXKgoWlSQJ2
+V5eVaU9]:KgeH6P[h4iF0Y0
+!s100 4U4bRdUNGN5RSHQc;FfQS3
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1727903043
+Z7 !s110 1728501893
 !i10b 1
-Z8 !s108 1727903043.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu.vhd|
-Z10 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu.vhd|
+Z8 !s108 1728501893.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/adder_sub_1bit.vhd|
+!s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/adder_sub_1bit.vhd|
 !i113 1
-Z11 o-work work -2002 -explicit
-Z12 tExplicit 1 CvgOpt 0
-Aalu_arch
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Aadder_sub_1bit_arch
 R1
 R2
-DEx4 work 3 alu 0 22 81CcPT4oZIlH7K>35Wj9m0
-!i122 83
-l52
-L14 45
-VB9H4Q7FckG_`oK7ghjiP02
-!s100 HR0kmPN2zh@eh4`OoVBj@1
+DEx4 work 14 adder_sub_1bit 0 22 5eVaU9]:KgeH6P[h4iF0Y0
+!i122 18
+l15
+L14 6
+VG^^PL9;^nfl:EER[XmgYn2
+!s100 lb]SHXX_Cz;ale9D7Q4Vd0
 R6
 32
 R7
 !i10b 1
 R8
 R9
-R10
+Z12 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/adder_sub_1bit.vhd|
 !i113 1
+R10
 R11
-R12
-Ealu_b
-Z13 w1727899422
+Ealu
+w1728498092
 R1
 R2
-!i122 85
+!i122 12
 R3
-Z14 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_b.vhd
-Z15 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_b.vhd
+8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu.vhd
+FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu.vhd
 l0
 L4 1
-V]_bd61onCRJCTB;9hPDY02
-!s100 =k>J9OgdI=jl7?K3aE<YG0
+V1WnIGZZTTGnUNTdGa;l`W2
+!s100 k:fnb51We@WLVK9dW>g@k0
 R6
 32
-Z16 !s110 1727903044
+Z13 !s110 1728498177
 !i10b 1
-Z17 !s108 1727903044.000000
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_b.vhd|
-Z19 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_b.vhd|
+Z14 !s108 1728498177.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu.vhd|
+!s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu.vhd|
 !i113 1
+R10
 R11
-R12
+Ealu_b
+Z15 w1728497353
+R1
+R2
+!i122 13
+R3
+Z16 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_b.vhd
+Z17 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_b.vhd
+l0
+L4 1
+VTeE=f9mBNeORX<V4^ikzE1
+!s100 kH<<m?LZH8^H6`BBCQOVN0
+R6
+32
+R13
+!i10b 1
+R14
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_b.vhd|
+Z19 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_b.vhd|
+!i113 1
+R10
+R11
 Aalu_b_inst
 R1
 R2
-DEx4 work 5 alu_b 0 22 ]_bd61onCRJCTB;9hPDY02
-!i122 85
-l14
-L13 12
-Vfi5Lf^1]LBQ:zOJ<[OIGK3
-!s100 6^aFEQnOGLIJ[4Wh2CKOK3
+DEx4 work 5 alu_b 0 22 TeE=f9mBNeORX<V4^ikzE1
+!i122 13
+l15
+L14 12
+V60<oe`J8X9_4:XQ=zMZSH2
+!s100 D`ZMGlWORGDm;i96K<GoO3
 R6
 32
-R16
+R13
 !i10b 1
-R17
+R14
 R18
 R19
 !i113 1
+R10
 R11
-R12
 Ealu_c
-Z20 w1727899430
+Z20 w1728498167
 R1
 R2
-!i122 86
+!i122 14
 R3
-Z21 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_c.vhd
-Z22 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_c.vhd
+Z21 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_c.vhd
+Z22 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_c.vhd
 l0
 L4 1
-VmdYWW:b_L9R3HYkE;zh=?1
-!s100 [6GXjEkVJfJ6gRC7mzBfW3
+VFYYBca15[I]HB0_fVUeR`3
+!s100 7k>]beBTja1n?;6dzJJ@P0
 R6
 32
-R16
+Z23 !s110 1728498178
 !i10b 1
-R17
-Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_c.vhd|
-Z24 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_c.vhd|
+R14
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_c.vhd|
+Z25 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_c.vhd|
 !i113 1
+R10
 R11
-R12
 Aalu_c_inst
 R1
 R2
-DEx4 work 5 alu_c 0 22 mdYWW:b_L9R3HYkE;zh=?1
-!i122 86
-l15
-L14 14
-VVQGM4iK67M_i71?n_n;<71
-!s100 6d5n^90aQh_RkOi0AmmKa0
+DEx4 work 5 alu_c 0 22 FYYBca15[I]HB0_fVUeR`3
+!i122 14
+l16
+L15 14
+VkHBMiPm7MZnPES<]hndIQ0
+!s100 XT:7EHibG`NDB[6Yzdd<:0
 R6
 32
-R16
-!i10b 1
-R17
 R23
+!i10b 1
+R14
 R24
+R25
 !i113 1
+R10
 R11
-R12
 Ealu_d
-Z25 w1727900035
+Z26 w1728496985
 R1
 R2
-!i122 84
+!i122 15
 R3
-Z26 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_d.vhd
-Z27 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_d.vhd
+Z27 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_d.vhd
+Z28 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_d.vhd
 l0
 L4 1
-V_j`[FF`3bFCac9lQAL80S1
-!s100 KU[Xm;lTjWQEA8NVlQ[bj1
+VdGLKZMcAOc48FJfkCgF100
+!s100 Q_KBWBV=NV5Y13[l4;`692
 R6
 32
-R16
+R23
 !i10b 1
-R8
-Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_d.vhd|
-Z29 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/alu_d.vhd|
+Z29 !s108 1728498178.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_d.vhd|
+Z31 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/alu_d.vhd|
 !i113 1
+R10
 R11
-R12
 Aalu_d_arch
 R1
 R2
-DEx4 work 5 alu_d 0 22 _j`[FF`3bFCac9lQAL80S1
-!i122 84
-l15
-L14 9
-VP[je6GfD:VJ[CVE:4`YWk3
-!s100 :GicA]7n7]^kTk^3>05Zk3
+DEx4 work 5 alu_d 0 22 dGLKZMcAOc48FJfkCgF100
+!i122 15
+l16
+L15 9
+VTBbjVWk?BaLkJV=z8<do21
+!s100 bT6UHWj;Po<_`bR]=3oQg1
 R6
 32
-R16
+R23
 !i10b 1
-R8
-R28
 R29
+R30
+R31
 !i113 1
+R10
 R11
-R12
-Emux4
-Z30 w1727900245
+Emux
+w1728497717
 R1
 R2
-!i122 87
+!i122 3
 R3
-Z31 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/mux4.vhd
-Z32 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/mux4.vhd
+8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux.vhd
+FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux.vhd
 l0
 L4 1
-V>Z367TeJ7Rki]j3dhZ3?C2
-!s100 EGQLXLNe_H`FEX@UfJR^U1
+Vbhb6iHf@`O3o5Z3oUG1id2
+!s100 JIlI1z4ASZPogkNOiZff02
 R6
 32
-R16
+!s110 1728497759
 !i10b 1
-R17
-Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/mux4.vhd|
-Z34 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/lab1/mux4.vhd|
+!s108 1728497758.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux.vhd|
+!s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux.vhd|
 !i113 1
+R10
 R11
-R12
+Emux4
+Z32 w1728497833
+R1
+R2
+!i122 16
+R3
+Z33 8C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux4.vhd
+Z34 FC:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux4.vhd
+l0
+L4 1
+VBZJLBzEOal:Go@bbEj_X12
+!s100 0<;W2c?_<_G]>hVa<jzfd2
+R6
+32
+R23
+!i10b 1
+R29
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux4.vhd|
+Z36 !s107 C:/Sub/College/3rd Year/1st Term/Arch/Labs/arch-labs/1-alu/final_code/mux4.vhd|
+!i113 1
+R10
+R11
 Amux4_arch
 R1
 R2
-Z35 DEx4 work 4 mux4 0 22 >Z367TeJ7Rki]j3dhZ3?C2
-!i122 87
-l15
-Z36 L14 11
-Z37 VOoXcF59@?JdIm9MNAEn;I2
-Z38 !s100 i]O?:g:Y83z@l358kMQ@<2
+DEx4 work 4 mux4 0 22 BZJLBzEOal:Go@bbEj_X12
+!i122 16
+l14
+L13 8
+V4@iVOD9H_`D1?GLM8cE?[3
+!s100 4`Ik@ffi=Z]o0S1VNC7FT3
 R6
 32
-R16
+R23
 !i10b 1
-R17
-R33
-R34
+R29
+R35
+R36
 !i113 1
+R10
 R11
-R12
