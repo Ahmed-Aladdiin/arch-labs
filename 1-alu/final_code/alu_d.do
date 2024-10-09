@@ -1,4 +1,4 @@
-vsim -gui work.alu_d
+vsim -gui work.alu_d -gn=8
 
 radix -bin
 add wave *
