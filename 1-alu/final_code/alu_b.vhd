@@ -2,10 +2,11 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity alu_b is
+  generic (n: integer := 8);
   port (
-    a, b: in std_logic_vector(7 downto 0);
+    a, b: in std_logic_vector(n-1 downto 0);
     sel: in std_logic_vector(1 downto 0);
-    f: out std_logic_vector(7 downto 0);
+    f: out std_logic_vector(n-1 downto 0);
     cout: out std_logic
   ) ;
 end alu_b;
